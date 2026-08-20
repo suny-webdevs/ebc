@@ -1,0 +1,6 @@
+{
+  "name": "EBC - Electric Bill Calculator",
+  "description": "High-performance electricity bill calculator with real-time reactive estimation, tiered and time-of-use tariff simulation, appliance breakdown, and downloadable PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
